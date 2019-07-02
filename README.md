@@ -16,7 +16,7 @@ or type in the command "sudo easy_install pip" into your command prompt
     
     a. "sudo easy_install pip" - this will install the pip package manager on your system
     
-    b. "sudo pip install xlrd requests colorama termcolor tqdm pyfiglet" or "pip install xlrd requests colorama termcolor tqdm pyfiglet"
+    b. "sudo pip install xlrd requests colorama termcolor tqdm pyfiglet" or "pip install xlrd requests colorama termcolor tqdm pyfiglet" - this installs the required dependencies for the program to run
 
 NOTE:If this is not working try using the sudo key word before the pip install statement. For example: "sudo pip install requests"
 
