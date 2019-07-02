@@ -11,6 +11,7 @@ or type in the command "sudo easy_install pip" into your command prompt
 2. Use your terminal to navigate to the project directory
 
 3. REQUIRED INSTALLATIONS
+
    Copy and paste the following commands into your terminal
     a. "sudo easy_install pip" - this will install the pip package manager on your system
     b. "sudo pip install xlrd requests colorama termcolor tqdm pyfiglet" or "pip install xlrd requests colorama termcolor tqdm pyfiglet"
